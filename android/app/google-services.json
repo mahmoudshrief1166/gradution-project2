@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "444246303859",
+    "project_id": "graduitproject",
+    "storage_bucket": "graduitproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444246303859:android:b963a17b6fd269851bb606",
+        "android_client_info": {
+          "package_name": "com.example.graduitproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAap_kWeJ0yEO9PJ9psEqCibq9FdNWiF1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
